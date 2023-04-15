@@ -1,5 +1,5 @@
-# Image Processing Onrmap
-## Outline Identification
+# **Image Processing Onrmap**
+### **Outline Identification**
 ### Receipt Identification Workflow
 1. Import
 2. Preprocess
